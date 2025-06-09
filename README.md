@@ -12,6 +12,7 @@ Página promocional de uma loja de camisas retrô. Destaques:
 - Layout responsivo
 - Catálogo com +3000 produtos CSV
 - Troca automática de linguagem e moeda dependendo da localidade
+https://scotdribble.com/
 
 ## 🧩 Projeto 2 - WOD Crossfit
 Sistema de treinos para alunos de crossfit
