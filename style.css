@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: white;
+  color: black;
+  transition: background 0.3s, color 0.3s;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.dark {
+  background: #121212;
+  color: #eee;
+}
